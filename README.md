@@ -1,8 +1,9 @@
 #Livro de receitas
 
-Ol� bem-vindo ao meu livro de receitas.
+Olá bem-vindo ao meu livro de receitas.
 
 * Strogonoff de carne
+* Pavê
 
 
 
